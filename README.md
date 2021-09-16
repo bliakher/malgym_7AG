@@ -25,4 +25,7 @@
 - úvodní informace
 - úlohy na zamyšlení
 
-
+#### 2. hodina - 17. 9. 2021
+- řešení domácího úkolu
+- algoritmy
+- vývojové diagramy
