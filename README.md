@@ -29,3 +29,7 @@
 - řešení domácího úkolu
 - algoritmy
 - vývojové diagramy
+
+#### 3. hodina - 24. 9. 2021
+- vývojové diagramy
+- Python - interaktivní příkazová řádka
