@@ -33,3 +33,8 @@
 #### 3. hodina - 24. 9. 2021
 - vývojové diagramy
 - Python - interaktivní příkazová řádka
+
+#### 4. hodina - 1. 10. 2021
+- Python - vstup a výstup
+- datové typy
+- podmínky
