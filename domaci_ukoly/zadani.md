@@ -9,3 +9,17 @@
 - Sepsané řešení prosím odevzdejte do Microsoft Teams skupiny
 - Stačí vyřešit jednu z úloh (druhá je za 2 bonusové body).
 - **Deadline** 15. 9. 2021 23:59
+
+### 2. Vývojový diagram - 5 bodů
+- Na vstupu jsou zadaná **různá** 3 čísla - a, b, c. Úkolem je vymyslet algoritmus, který čísla seřadí podle velikosti (vzestupně).
+- Algoritmus zakreslete do **vývojového diagramu**. Doporučuju si ho nejdřív sepsat v bodech.
+- Nápověda: zamyslete se, kolik je možných výstupů (seřazení 3 čísel)
+- **Deadline** 29. 9. 2020 23:59
+
+### 3. Absolutní hodnota - 4 body
+- **Absolutní hodnota** čísla a |a|
+  - pro a v intervalu (-nek, 0) : |a| = -a
+  - pro a v intervalu <0, +nek) : |a| = a
+  - př. |-3| = 3, |5| = 5
+- Napište program v pythonu, který načte od uživatele celé číslo x a spočítá jeho absolutní hodnotu.
+- **Deadline** 13. 10. 2020 23:59
