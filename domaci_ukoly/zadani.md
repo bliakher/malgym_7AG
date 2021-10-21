@@ -23,3 +23,9 @@
   - př. |-3| = 3, |5| = 5
 - Napište program v pythonu, který načte od uživatele celé číslo x a spočítá jeho absolutní hodnotu.
 - **Deadline** 13. 10. 2020 23:59
+
+### 4. Lichá čísla - 4 body
+- V programu máte pole čísel - např. cisla = \[2, 17, 1, 3, 4, 8, 97]
+- Vypište všechna lichá čísla z pole.
+- Program napište tak, aby fungoval pro libovolný obsah pole.
+- **Deadline** 3. 11. 2020 23:59
