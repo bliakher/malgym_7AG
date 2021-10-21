@@ -38,3 +38,14 @@
 - Python - vstup a výstup
 - datové typy
 - podmínky
+
+#### 5. hodina - 8. 10. 2021
+- Python - podmínky, cyklus while
+
+#### 6. hodina - 15. 10. 2021
+- cyklus while
+- nekonečný cyklus
+
+#### 7. hodina - 22. 10. 2021
+- cyklus while
+- pole
