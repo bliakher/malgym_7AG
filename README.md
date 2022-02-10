@@ -21,31 +21,7 @@
 
 ### Co jsme dělali?
 
-#### 1. hodina - 3. 9. 2021
+#### 1. hodina - 11. 2. 2022
 - úvodní informace
 - úlohy na zamyšlení
 
-#### 2. hodina - 17. 9. 2021
-- řešení domácího úkolu
-- algoritmy
-- vývojové diagramy
-
-#### 3. hodina - 24. 9. 2021
-- vývojové diagramy
-- Python - interaktivní příkazová řádka
-
-#### 4. hodina - 1. 10. 2021
-- Python - vstup a výstup
-- datové typy
-- podmínky
-
-#### 5. hodina - 8. 10. 2021
-- Python - podmínky, cyklus while
-
-#### 6. hodina - 15. 10. 2021
-- cyklus while
-- nekonečný cyklus
-
-#### 7. hodina - 22. 10. 2021
-- cyklus while
-- pole
