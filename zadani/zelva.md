@@ -6,10 +6,24 @@
 - želva, která chodí po obrazovce podle našich instrukcí
 - nechává za sebou stopu
 
-- abychom mohli používat funkce knihovny, musíme na začátek souboru přidat
+- abychom mohli používat funkce knihovny, musíme na začátek souboru přidat:
 ```python
 from turtle import *
 ```
+
+- příkazy
+
+```python
+forward(100) # jít dopředu - do závorky napíšeme o kolik
+
+right(90) # otočení doprava - do závorky o kolik stupňů
+
+left(90) # otočení doleva
+```
+
+## Zadání
+
+*Nakreslete obrázky podle předlohy.*
 
 
 ### Úsečka
@@ -30,10 +44,8 @@ nápověda:
 ### Spirála
 ![Screenshot 2022-03-31 at 11 34 13](https://user-images.githubusercontent.com/44325210/161030435-08b7d3ab-2ab5-47d3-a552-1327e9b93130.png)
 
-
 ### Lomená čára
 ![Screenshot 2022-03-31 at 11 39 32](https://user-images.githubusercontent.com/44325210/161030474-443a281e-2bbc-44c8-8e57-811be11abbe1.png)
 
 ### Hradby
-
 ![Screenshot 2022-03-31 at 11 43 31](https://user-images.githubusercontent.com/44325210/161030492-25934497-f5ae-4161-b506-34bb25859e9b.png)
