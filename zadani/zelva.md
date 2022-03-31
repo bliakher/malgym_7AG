@@ -32,6 +32,9 @@ left(90) # otočení doleva
 ### Čtverec
 ![Screenshot 2022-03-31 at 11 32 01](https://user-images.githubusercontent.com/44325210/161030303-79196c06-e6ab-46b4-a2dc-1493512580e1.png)
 
+### Rovnostranný trojúhelník
+![Screenshot 2022-03-31 at 14 43 51](https://user-images.githubusercontent.com/44325210/161057573-29e05334-a378-4514-9b2f-58c9803c0180.png)
+
 ### Pětiúhelník
 ![Screenshot 2022-03-31 at 11 32 20](https://user-images.githubusercontent.com/44325210/161030314-8693abaa-8d4c-4565-bcd6-700d03460f63.png)
 
