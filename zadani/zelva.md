@@ -1,3 +1,16 @@
+# 1. 4. 2022
+
+## Knihovna turtle
+
+- knihovna na kreslení jednoduchých obrázků
+- želva, která chodí po obrazovce podle našich instrukcí
+- nechává za sebou stopu
+
+- abychom mohli používat funkce knihovny, musíme na začátek souboru přidat
+```python
+from turtle import *
+```
+
 
 ### Úsečka
 ![Screenshot 2022-03-31 at 11 31 01](https://user-images.githubusercontent.com/44325210/161030294-776412f8-fa7b-4cd1-9d0c-b2623c318e10.png)
