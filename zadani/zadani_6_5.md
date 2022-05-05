@@ -75,7 +75,6 @@ while i < len(pole):
   i += 2
 ```
 
-
 8)
 ```python
 pole = [1, 2, 3, 4]
@@ -84,6 +83,22 @@ while i >= 0:
   print(pole[i])
   i -= 1
 ```
+### Úloha 2
+
+Funkce `print` vypisuje všechno, co ji dáme, na obrazovku. Když dáme funkci `print` dáme několik argumentů - př. `print(1, 2, 3)` - vypíše je všechny postupně na řádek a mezi ně dá vždy jednu mezeru - tedy výstup bude `1 2 3`.
+
+Znak, který print dává mezi argumenty, když je vypisuje můžeme změnit pomocí parametru `sep` - separátor. Parametr napíšeme do funkce `print` na konec, za všechno, co chceme vypsat. Výchozí nastavení (když tam nedáme nic) je jedna mezera tedy `print(1, 2, 3, sep=" ")`.
+
+Můžeme zkusit změnit separátor na něco jiného. Vyzkoušejte si, co se vypíše:
+
+```python
+print(1, 2, 3, sep="*")
+
+print(1, 2, 3, sep="/")
+
+print(1, 2, 3, sep="")
+```
+
 
 
 ```python
