@@ -1,6 +1,6 @@
 ## Zadání 6. 5. 2022
 
-*Řešení mi odevzdejte do Teams. Úkol nebudu známkovat, je to hlavně procvičení pro vás na test a pro mě přehled, co umíte. Za všechny vyřešené úlohy (nemusí být správně, ale musíte odevzdat řešení) budu dávat 2 body do DÚ*
+*Řešení mi odevzdejte do Teams. Úkol nebudu známkovat, je to hlavně procvičení pro vás na test a pro mě přehled, co umíte. Za všechny vyřešené úlohy (nemusí být správně, ale musíte odevzdat řešení) dohromady budu dávat 2 body do DÚ*
 
 ### Úloha 1
 
