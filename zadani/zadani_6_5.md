@@ -126,6 +126,7 @@ XXX
 i = 0
 while i < 3:
   print("X")
+  i += 1
 ```
 
 2) _Doplňte kód tak, aby se vytisklo:_
