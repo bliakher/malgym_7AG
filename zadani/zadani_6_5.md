@@ -144,3 +144,5 @@ while i < 3:
     j += 1
   i += 1
 ```
+
+Dopln2n7 kód mi odevzdejte do Teams.
