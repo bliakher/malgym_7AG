@@ -87,7 +87,7 @@ while i >= 0:
 
 Funkce `print` vypisuje všechno, co ji dáme, na obrazovku. Když dáme funkci `print` několik argumentů - př. `print(1, 2, 3)` - vypíše je všechny postupně na řádek a mezi ně dá vždy jednu mezeru - tedy výstup bude `1 2 3`.
 
-Znak, který print dává mezi argumenty, když je vypisuje můžeme změnit pomocí parametru `sep` - separátor. Parametr napíšeme do funkce `print` na konec, za všechno, co chceme vypsat. Výchozí nastavení (když tam nedáme nic) je jedna mezera tedy `print(1, 2, 3, sep=" ")`.
+Znak, který print dává mezi argumenty, když je vypisuje můžeme změnit pomocí parametru `sep` - separátor. Parametr napíšeme do funkce `print` na konec, za všechno, co chceme vypsat. Výchozí nastavení (když tam nedáme nic) je jedna mezera, tedy `print(1, 2, 3, sep=" ")`.
 
 Můžeme zkusit změnit separátor na něco jiného. Vyzkoušejte si, co se vypíše:
 
@@ -116,10 +116,28 @@ print("Hello", end="")
 print("World", end="")
 ```
 
+1) _Doplňte do funkce print parametr tak, aby se všechna X vypsala na jeden řádek._
+
+Výstup bude:
+XXX
+```python
+i = 0
+while i < 3:
+  print("X")
+```
+
+2) _Doplňte kód tak, aby se vytisklo:_
+
+XXX
+XXX
+XXX
+
 ```python
 i = 0
 while i < 3:
   j = 0
   while j < 3:
-  print("X")
+    print("X")
+    j += 1
+  i += 1
 ```
