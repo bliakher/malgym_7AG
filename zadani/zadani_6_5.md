@@ -119,7 +119,9 @@ print("World", end="")
 1) _Doplňte do funkce print parametr tak, aby se všechna X vypsala na jeden řádek._
 
 Výstup bude:
+```
 XXX
+```
 ```python
 i = 0
 while i < 3:
@@ -127,11 +129,11 @@ while i < 3:
 ```
 
 2) _Doplňte kód tak, aby se vytisklo:_
-
+```
 XXX
 XXX
 XXX
-
+```
 ```python
 i = 0
 while i < 3:
