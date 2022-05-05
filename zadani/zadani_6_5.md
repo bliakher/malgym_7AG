@@ -85,7 +85,7 @@ while i >= 0:
 ```
 ### Úloha 2
 
-Funkce `print` vypisuje všechno, co ji dáme, na obrazovku. Když dáme funkci `print` dáme několik argumentů - př. `print(1, 2, 3)` - vypíše je všechny postupně na řádek a mezi ně dá vždy jednu mezeru - tedy výstup bude `1 2 3`.
+Funkce `print` vypisuje všechno, co ji dáme, na obrazovku. Když dáme funkci `print` několik argumentů - př. `print(1, 2, 3)` - vypíše je všechny postupně na řádek a mezi ně dá vždy jednu mezeru - tedy výstup bude `1 2 3`.
 
 Znak, který print dává mezi argumenty, když je vypisuje můžeme změnit pomocí parametru `sep` - separátor. Parametr napíšeme do funkce `print` na konec, za všechno, co chceme vypsat. Výchozí nastavení (když tam nedáme nic) je jedna mezera tedy `print(1, 2, 3, sep=" ")`.
 
@@ -99,7 +99,22 @@ print(1, 2, 3, sep="/")
 print(1, 2, 3, sep="")
 ```
 
+Funkce `print` má ještě další nepovinný parametr - `end` - tento parametr určuje znak, který se přidá na konec všeho, co vytiskne print. 
+Výchozí hodnota (pokud parametr do printu nenapíšeme) je nový řádek, tedy po každém printu se odřádkuje. `print("ahoj", end="\n")`
+`\n` je speciální znak, který značí nový rádek. 
+Pokud nechceme, aby `print` po vytisknutí skočil na nový řádek, můžeme parametr `end` změnit.
 
+Vyzkoušejte si jaký je rozdíl:
+
+```python
+# prvni varianta
+print("Hello")
+print("World")
+
+# druha varianta
+print("Hello", end="")
+print("World", end="")
+```
 
 ```python
 i = 0
